@@ -1,3 +1,5 @@
+// -- set up notifications
+
 var messages = [];
 
 function gotNotifications(data) {
