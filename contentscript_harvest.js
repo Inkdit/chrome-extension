@@ -14,7 +14,7 @@ function getWebEstimateUrl() {
 function getImportUrl(estimateUrl) {
   var u = encodeURIComponent(estimateUrl);
 //  return 'http://localhost:3000/i/harvest/import-estimate?url=' + u;
-  return 'http://staging.inkdit.com/i/harvest/import-estimate?url=' + u;
+  return 'https://inkdit.com/i/harvest/import-estimate?url=' + u;
 }
 
 var actionBarLeft = document.getElementsByClassName('f-left')[0];
