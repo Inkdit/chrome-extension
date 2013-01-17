@@ -2,7 +2,7 @@
   "manifest_version": 2,
   "name": "Inkdit Notifications",
   "description": "Receive Inkdit notifications in your browser",
-  "version": "0.3",
+  "version": "0.4",
 
   "icons": {
     "128": "Inkdit-Icon-Extension.png"
